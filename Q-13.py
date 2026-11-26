@@ -1,0 +1,5 @@
+s = input("Enter a string: ")
+start = input("Enter starting character: ")
+end = input("Enter ending character: ")
+print("Starts with:", s.startswith(start))
+print("Ends with:", s.endswith(end))

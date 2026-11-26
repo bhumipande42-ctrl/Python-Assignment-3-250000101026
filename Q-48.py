@@ -1,0 +1,5 @@
+t1 = (1, 2, 3)
+t2 = (4, 5)
+print("Concat:", t1 + t2)
+print("Repetition:", t1 * 2)
+print("Slicing:", t1[0:2])
